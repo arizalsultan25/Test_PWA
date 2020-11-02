@@ -1,0 +1,16 @@
+{
+    "short_name" : "Mono Weather",
+    "name" : "Weather Progressive Application",
+    "icons" : [
+        {
+            "src": "/images/logo.png",
+            "type": "image/png",
+            "sizes": "1024x1024"
+        }
+    ],
+    "start_url": ".",
+    "display" : "standalone",
+    "theme_color" : "#CCF6C8",
+    "background_color" : "#fbf7f0"
+
+}
